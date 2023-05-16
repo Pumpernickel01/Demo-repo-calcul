@@ -1,4 +1,4 @@
 # Demo
 
 
-This is just a leaning repo :).
+This is just a leaning repo :)!
